@@ -1,0 +1,43 @@
+body{
+	width: 100%;height: 100%;
+	overflow: hidden;
+	font-family: "微软雅黑";
+}
+canvas{
+
+}
+.content{
+	display: block;
+	width: 500px;
+	height: 50px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	margin-left: -250px;
+	margin-top: -25px;
+	font-size: 38px;
+	font-weight: 300;
+	text-align: center;
+}
+#text{
+	font-size: 46px;
+	font-weight: 700;
+}
+#begin{
+	width: 100px;
+	height: 50px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -50px;
+	margin-top: 30px;
+}
+#stop{
+	width: 100px;
+	height: 50px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -50px;
+	margin-top: 90px;
+}
