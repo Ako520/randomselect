@@ -3,20 +3,20 @@ body{
 	overflow: hidden;
 	font-family: "微软雅黑";
 }
-canvas{
-
+.canvas{
+	position: absolute;
+	left: 0;
+	right: 0;
 }
 .content{
-	display: block;
-	width: 500px;
-	height: 50px;
-	position: absolute;
-	top:50%;
-	left: 50%;
-	margin-left: -250px;
+	display: flex;
+	width: 100vw;
+	height: 100vh;
 	margin-top: -25px;
 	font-size: 38px;
 	font-weight: 300;
+	align-items: center;
+	justify-content: center;
 	text-align: center;
 }
 #text{
