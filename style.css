@@ -19,6 +19,11 @@ body{
 	justify-content: center;
 	text-align: center;
 }
+.quanxain{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+}
 #text{
 	font-size: 46px;
 	font-weight: 700;
