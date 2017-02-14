@@ -19,6 +19,13 @@ body{
 	justify-content: center;
 	text-align: center;
 }
+.quanxian{
+	position: absolute;
+	line-height: 16px;
+	font-size: 12px;
+	bottom: 30px;
+	right: 20px;
+}
 #text{
 	font-size: 46px;
 	font-weight: 700;
